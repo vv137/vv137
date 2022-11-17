@@ -1,4 +1,5 @@
 Welcome!
 
-# Who Am I
-My name is Minsoo Kim.
+# Who I Am
+My name is Minsoo Kim, a graduate student major in biophysics.
+I'm in Sungkyunkwan University in Suwon, Republic of Korea.
