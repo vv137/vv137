@@ -22,7 +22,7 @@ Researching **Computational Biophysics, Protein Structure Prediction, and Molecu
 
 **Sungkyunkwan University**
 
-* **PhD Candidate (M.S./Ph.D. Integrated Program)** — 2019–Present
+* **PhD in Physics (M.S./Ph.D. Integrated Program)** — 2019–2026
 * **B.S. in Physics** — 2016–2019
 
 ---
@@ -61,7 +61,7 @@ Some repositories you may find interesting:
 
 ## 🔗 Links
 
-* 🌐 Website: [https://phdms.kim](https://phdms.kim)
+* 🌐 Website: [https://vv137.xyz](https://vv137.xyz)
 * 🧑‍💻 GitHub: [https://github.com/vv137](https://github.com/vv137)
 * 🎓 Google Scholar: [https://scholar.google.com](https://scholar.google.com)
 * 🧬 ORCID: [https://orcid.org/0000-0002-3961-9703](https://orcid.org/0000-0002-3961-9703)
